@@ -6,7 +6,8 @@
 //
 
 import Foundation
+import QuandoPasso
 
 struct QuandoPasso {
-	
+	let engine: QPEngine(settings: QPSettings())
 }
