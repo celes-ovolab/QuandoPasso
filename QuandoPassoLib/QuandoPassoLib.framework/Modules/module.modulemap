@@ -1,0 +1,4 @@
+framework module QuandoPassoLib {
+  header "QuandoPassoLib-Swift.h"
+  requires objc
+}
