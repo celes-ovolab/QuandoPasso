@@ -22,8 +22,8 @@ let package = Package(
 		),
 		.binaryTarget(
 			name: "QuandoPassoLib",
-			url: "https://api.github.com/repos/celes-ovolab/testSDK/releases/assets/79171950.zip",
-			checksum: "43d35e03eb16d26f390670a44ffd0168c833034fd40b636d45a154872cb86001"
+			url: "https://api.github.com/repos/celes-ovolab/testSDK/releases/assets/79402930.zip",
+			checksum: "59c485fc882ba95345eb31b9f315c638bab79ba7b9a157fa776105ffcefd5ae7"
 		)
     ]
 )
